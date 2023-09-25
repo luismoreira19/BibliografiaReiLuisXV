@@ -1,0 +1,21 @@
+img{
+
+    width: 350px;
+    margin: 20px;
+
+}
+
+img,p{
+
+    display: inline-block;
+
+}
+
+p{
+
+
+    margin: 20px;
+    font-size: 20px;
+    position: absolute;
+
+}

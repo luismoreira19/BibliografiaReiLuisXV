@@ -1,0 +1,45 @@
+.video{
+
+    border: 7px solid saddlebrown;
+    left: 875px;
+    margin: 8px;
+    position:absolute
+    
+}
+
+h1{
+
+    margin: 20px;
+
+}
+
+li{
+
+    margin: 20px;
+    font-size: 20px;
+
+}
+
+.esposa{
+   
+    left: 1100px;
+    margin: 20px;
+    position: absolute;
+
+}
+
+.amante{
+
+    left: 900px;
+    margin: 20px;
+    position: absolute;
+    
+
+}
+
+.proxpag2{
+
+    margin: 20px;
+    font-size: 18px;
+
+}
